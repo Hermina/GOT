@@ -14,6 +14,8 @@ from sklearn.preprocessing import OneHotEncoder
 
 import copy
 
+import warnings
+warnings.filterwarnings('ignore')
 # ---------------------------------------------------------------------------------------------------------------
 
 def create_permutation(n, l1, seed_nb):
