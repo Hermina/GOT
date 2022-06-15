@@ -1,3 +1,5 @@
+For a computationally more efficient approximation of this algorithm, check out the code here: https://github.com/Hermina/fGOT, accompanying our AAAI 2022 paper "fGOT: Graph Distances based on Filters and Optimal Transport".
+
 # GOT
 
 This is the code for the Neurips 2019 paper GOT: An Optimal Transport framework for Graph comparison
