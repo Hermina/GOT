@@ -1,4 +1,8 @@
-For a computationally more efficient approximation of this algorithm, which can also deal with graphs of different sizes, check out the code here: https://github.com/Hermina/fGOT, accompanying our AAAI 2022 paper "fGOT: Graph Distances based on Filters and Optimal Transport".
+For a **computationally more efficient** approximation of this algorithm, which can also deal with graphs of different sizes, check out the code here: https://github.com/Hermina/fGOT, 
+
+accompanying our AAAI 2022 paper **"fGOT: Graph Distances based on Filters and Optimal Transport"**.
+
+fGOT paper link: https://arxiv.org/pdf/2109.04442.pdf
 
 # GOT
 
